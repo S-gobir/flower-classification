@@ -1,0 +1,5 @@
+Python 3.7+
+TensorFlow 2.x
+Matplotlib
+NumPy
+Pandas
