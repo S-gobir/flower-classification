@@ -67,8 +67,8 @@ pip install -r requirements.txt
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone <https://github.com/S-gobir/flower-classification>
+   cd <FLOWER CLASSIFICATION MODEL>
    ```
 2. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/marquis03/flower-classification/data) and place it in the `data` directory.
 3. Open and run the Jupyter Notebook:
